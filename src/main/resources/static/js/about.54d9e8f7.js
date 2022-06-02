@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkfrom_end_vue"]=self["webpackChunkfrom_end_vue"]||[]).push([[443],{7228:function(a,e,r){r.r(e),r.d(e,{default:function(){return v}});var n=r(3396);const s={class:"card"},c=(0,n._)("div",{class:"card-header"},"HelloWorld",-1),d=(0,n._)("div",{class:"card-body"},[(0,n._)("div",{class:"about"},[(0,n._)("h1",null,"This is an about page")])],-1),u=[c,d];function l(a,e){return(0,n.wg)(),(0,n.iD)("div",s,u)}var o=r(89);const t={},i=(0,o.Z)(t,[["render",l]]);var v=i}}]);
+//# sourceMappingURL=about.54d9e8f7.js.map
